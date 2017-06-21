@@ -1,8 +1,21 @@
 body {
-  padding: 50px;
+  padding: 0px;
   font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
 }
 
 a {
   color: #00B7FF;
+}
+
+
+nav{
+  background-color: Gold;
+}
+
+page-footer {
+  color: royalblue;
+}
+
+page-copyright {
+  background-color: royalblue;
 }
