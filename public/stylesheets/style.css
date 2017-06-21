@@ -9,13 +9,33 @@ a {
 
 
 nav{
-  background-color: Gold;
+  background-color:  #FFD913;
+  height: 100px
 }
 
-page-footer {
-  color: royalblue;
+
+.logo {
+  width:140px;
+  height:100px;
+}
+.h
+ {
+  margin-top: 20px;
 }
 
-page-copyright {
-  background-color: royalblue;
+.g
+ {
+  margin-top: 20px;
+}
+.a
+ {
+  margin-top: 20px;
+}
+.c
+ {
+  margin-top: 20px;
+}
+
+.page-footer{
+background-color: gray;
 }
